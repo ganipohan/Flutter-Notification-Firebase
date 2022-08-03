@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605237378281",
+    "project_id": "notification-gani",
+    "storage_bucket": "notification-gani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605237378281:android:b147fe19f5a088993f8478",
+        "android_client_info": {
+          "package_name": "com.example.belajar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605237378281-jv78msna7hbhkkvs0jd3qasph8or2fr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4FG_bYNo6_gF1R9RwaS7i-Kl2bktZa-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605237378281-jv78msna7hbhkkvs0jd3qasph8or2fr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
